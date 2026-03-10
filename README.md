@@ -26,7 +26,7 @@ Patrones de Diseño
 <br>
 
 **TÍTULO ACTIVIDAD:**  
-Actividad de evidencia 2_U2 Singleton  
+Actividad de evidencia 3_U2 Prototype  
 
 <br>
 
