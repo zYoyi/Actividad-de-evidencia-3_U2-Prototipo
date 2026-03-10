@@ -1,0 +1,7 @@
+C:\Users\jordy\source\repos\U2Prototipo\obj\Debug\U2Prototipo.csproj.AssemblyReference.cache
+C:\Users\jordy\source\repos\U2Prototipo\obj\Debug\U2Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\jordy\source\repos\U2Prototipo\bin\Debug\U2Prototipo.exe.config
+C:\Users\jordy\source\repos\U2Prototipo\bin\Debug\U2Prototipo.exe
+C:\Users\jordy\source\repos\U2Prototipo\bin\Debug\U2Prototipo.pdb
+C:\Users\jordy\source\repos\U2Prototipo\obj\Debug\U2Prototipo.exe
+C:\Users\jordy\source\repos\U2Prototipo\obj\Debug\U2Prototipo.pdb
